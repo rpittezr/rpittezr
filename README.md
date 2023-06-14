@@ -25,6 +25,5 @@
 <div>
   <a href="https://github.com/rpittezr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpittezr&layout=compact&langs_count=7&theme=transparent"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rpittezr&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   </a>  
 </div>
