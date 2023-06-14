@@ -28,6 +28,8 @@
   </a>  
 </div>
 
+<hr>
+
 ### Contacts 📞
 
 <div>
