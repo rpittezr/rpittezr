@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects based on social causes.
 - 📫 How to reach me: pittezr.dev@gmail.com
 
-### My Skills 🔧
+### My preferred technologies 🔧
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48"/>
