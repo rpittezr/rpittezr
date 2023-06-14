@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on projects based on social causes.
 - 📫 How to reach me: pittezr.dev@gmail.com
 
+<hr>
+
 ### My preferred technologies 🔧
 
 <div>
